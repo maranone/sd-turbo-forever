@@ -1,5 +1,5 @@
 # SD-Turbo Forever
 
-This small script allows you to generate https://huggingface.co/stabilityai/sd-turbo images interactively.
+This small (and ugly) script allows you to generate https://huggingface.co/stabilityai/sd-turbo images interactively.
 
-[Watch the demo video](./movie.mov)
+[Watch the demo video](./output.gif)
