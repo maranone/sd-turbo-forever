@@ -1,3 +1,5 @@
+![SD_Turbo_Forever](./sd_turbo_forever.jpg)
+
 # SD-Turbo Forever
 
 - Added img2img strength
