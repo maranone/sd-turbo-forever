@@ -1,3 +1,10 @@
+# SD-Turbo Forever with img2img and strength
+
+- Added img2img strength
+- Simplified resolution change with selectbox
+- Added Record button to store your creations to a 2fps video
+- Added console to the bottom
+
 # SD-Turbo Forever with img2img
 
 sdt-i2i.py
