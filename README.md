@@ -1,4 +1,4 @@
-![SD_Turbo_Forever](./sd_turbo_forever.jpg)
+![SD_Turbo_Forever](./SD_Turbo_Forever.jpg)
 
 # SD-Turbo Forever
 
