@@ -7,7 +7,7 @@
 - Added Record button to store your creations to a 2fps video
 - Added console to the bottom
 
-![Demo](./sd_turbo_forever.gif)
+![Demo](./output.gif)
 
 This small (and ugly) script allows you to generate https://huggingface.co/stabilityai/sd-turbo images interactively.
 
