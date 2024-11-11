@@ -45,7 +45,6 @@ required_packages = [
     ("torch", None),
     ("numpy", None),
     ("transformers", None),
-    ("cv2", None),
     ("accelerate", None)
 ]
 
