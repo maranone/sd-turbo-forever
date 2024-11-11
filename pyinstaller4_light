@@ -1,1 +1,0 @@
-pyinstaller --add-data "SD_Turbo_Forever.jpg;." --icon=SD_Turbo_Forever.ico --exclude-module PIL --exclude-module diffusers --exclude-module accelerate --exclude-module transformers --exclude-module torch --exclude-module numpy --exclude-module tkinter --exclude-module cv2  --add-data "path-to-your\pip.exe;." --noconfirm SD_Turbo_Forever_light.py
