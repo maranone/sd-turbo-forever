@@ -1,5 +1,0 @@
-Used for generating binaries for _light it will install everything on first run through pip into _internal folder
-
-This should create ~200mb folder and after first run should grow aprox 10gb (depending if it finds cuda)
-
-pyinstaller --add-data "SD_Turbo_Forever.jpg;." --icon=SD_Turbo_Forever.ico --exclude-module PIL --exclude-module diffusers --exclude-module accelerate --exclude-module transformers --exclude-module torch --exclude-module numpy --exclude-module tkinter --add-data "path-to-your\pip.exe;." --noconfirm SD_Turbo_Forever_light.py
